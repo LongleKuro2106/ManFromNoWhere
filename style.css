@@ -1,0 +1,71 @@
+body {
+    background: rgb(242,215,217);
+background: linear-gradient(90deg, rgba(242,215,217,1) 0%, rgba(211,206,223,1) 41%, rgba(156,180,204,0.9080882352941176) 100%);
+}
+h1 {
+    color:black;
+    text-align: center;
+}
+
+h2 {
+    color:brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 21px ;
+}
+
+
+
+.Personal_Information {
+    width: 200px;
+    border: 15px solid rgb(116, 141, 166);
+    padding: 50px;
+    margin: 20px;
+    float: left;
+}
+
+
+.A_question{
+    width: 200px;
+    border: 15px solid rgb(116, 141, 166);
+    padding: 50px;
+    margin: 20px;
+    float: right;
+    position: relative;
+    left: -50%;
+    
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+.blog_info{
+    text-align: left;
+    width: 200px;
+    border: 15px solid rgb(116, 141, 166);
+    padding: 50px;
+    margin: 20px;
+    float:right;
+
+
+  
+}
+  .blossom_picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .blossom{
+    display: contents;
+    float:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
