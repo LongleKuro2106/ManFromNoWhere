@@ -1,0 +1,29 @@
+body{
+  
+  color:white;
+  margin:0;
+  padding-bottom: 400px;
+  font-family: 'Roboto', sans-serif;
+
+  animation: bgAnim 10s infinite alternate linear;
+} 
+
+@keyframes  bgAnim {
+  0% {
+    background-color: #453030;
+  }
+  25% {
+    background-color: #43432e;
+  }
+
+  50% {
+    background-color: #404d5b;
+  }
+  75%{
+    background-color: #404334;
+  }
+  100%{
+    background-color: #403b2e;
+  }
+
+}

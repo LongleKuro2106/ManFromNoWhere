@@ -1,0 +1,25 @@
+.about-me-header,.my-skills-header,.my-works-header,.my-blog-header{
+  padding: 180px 10px 10px 200px;
+  margin: 0px 0px 0px 50px;
+  font-weight: 900;
+  font-size: 66px;
+  
+
+}
+
+.my-info,.my-works-info{
+  padding: 0 100px 0 250px;
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.my-skill-info{
+  font-weight: 700;
+  padding: 0 0 0 270px;
+  display: grid;
+  grid-template-columns:50px 1fr;
+  align-items: center;
+  column-gap:50px;
+  row-gap: 25px;
+}
